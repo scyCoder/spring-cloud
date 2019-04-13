@@ -1,0 +1,10 @@
+#配置端口号
+server:
+  port: 2581
+# 指定eureka server 配置
+eureka:
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+    service-url:
+      defaultZone: http://localhost:2580/eureka

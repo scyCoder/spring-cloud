@@ -1,0 +1,11 @@
+#server:
+#  port: 2583 #2584 2583
+spring:
+  application:
+    name: producer-client
+# eureka client
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:2580/eureka #,http://localhost:2581/eureka
+

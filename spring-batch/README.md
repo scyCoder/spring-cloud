@@ -1,0 +1,5 @@
+批处理
+config包中编写的是任务代码
+BaseConfig 中有公共使用创建Job和Step以及数据源对象
+model包中是实体类
+resources中jobfile是批处理是读的文件或写入的文件

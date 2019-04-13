@@ -1,0 +1,6 @@
+id,classId,name,sex,age
+1,1,sun,男,15
+2,1,li,女,16
+3,1,vk,男,17
+4,2,go,女,18
+5,2,wh,男,20
